@@ -12,7 +12,7 @@ Used Technology: **Django**
 ![Image](https://drive.google.com/uc?id=107Bh4eBY3ZGiQeFkwegkCI5_ZOroNe1V)
 
 
-### 2. Successfully paid
+### 2. Payment Successful
 
 
 
@@ -24,7 +24,6 @@ Used Technology: **Django**
 
 
 ![Image](https://drive.google.com/uc?id=1mWac--mWyyDpfTrhJ2my0IIQIhhaDolC)
-
 
 
 ### THANK YOU!
