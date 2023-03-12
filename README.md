@@ -25,5 +25,5 @@ Used Technology: **Django**
 
 ![Image](https://drive.google.com/uc?id=1mWac--mWyyDpfTrhJ2my0IIQIhhaDolC)
 
-
+___
 ### THANK YOU!
